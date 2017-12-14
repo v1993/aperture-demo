@@ -1,0 +1,4 @@
+[submodule "components/u8g2/library"]
+	path = components/u8g2/library
+	url = https://github.com/olikraus/u8g2
+	branch = master
